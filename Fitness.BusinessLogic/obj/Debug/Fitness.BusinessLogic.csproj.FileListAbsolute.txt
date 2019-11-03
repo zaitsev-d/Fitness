@@ -1,0 +1,7 @@
+E:\Workspace\C#\Fitness\Fitness.BusinessLogic\bin\Debug\Fitness.BusinessLogic.dll
+E:\Workspace\C#\Fitness\Fitness.BusinessLogic\bin\Debug\Fitness.BusinessLogic.pdb
+E:\Workspace\C#\Fitness\Fitness.BusinessLogic\obj\Debug\Fitness.BusinessLogic.csprojAssemblyReference.cache
+E:\Workspace\C#\Fitness\Fitness.BusinessLogic\obj\Debug\Fitness.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\Fitness\Fitness.BusinessLogic\obj\Debug\Fitness.BusinessLogic.dll
+E:\Workspace\C#\Fitness\Fitness.BusinessLogic\obj\Debug\Fitness.BusinessLogic.pdb
+E:\Workspace\C#\Fitness\Fitness.BusinessLogic\bin\Debug\Fitness.BusinessLogic.dll.config

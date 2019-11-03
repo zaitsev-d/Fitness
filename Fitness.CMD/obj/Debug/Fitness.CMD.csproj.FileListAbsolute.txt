@@ -1,0 +1,14 @@
+E:\Workspace\C#\Fitness\Fitness.CMD\bin\Debug\Fitness.CMD.exe.config
+E:\Workspace\C#\Fitness\Fitness.CMD\bin\Debug\Fitness.CMD.exe
+E:\Workspace\C#\Fitness\Fitness.CMD\bin\Debug\Fitness.CMD.pdb
+E:\Workspace\C#\Fitness\Fitness.CMD\bin\Debug\Fitness.BusinessLogic.dll
+E:\Workspace\C#\Fitness\Fitness.CMD\bin\Debug\Fitness.BusinessLogic.pdb
+E:\Workspace\C#\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.csprojAssemblyReference.cache
+E:\Workspace\C#\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.csproj.CopyComplete
+E:\Workspace\C#\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.exe
+E:\Workspace\C#\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.pdb
+E:\Workspace\C#\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.Languages.Messages-EN-EN.resources
+E:\Workspace\C#\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.Languages.Messages-RU-RU.resources
+E:\Workspace\C#\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.csproj.GenerateResource.cache
+E:\Workspace\C#\Fitness\Fitness.CMD\bin\Debug\Fitness.BusinessLogic.dll.config
